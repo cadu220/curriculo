@@ -1,0 +1,105 @@
+@media screen and (max-width: 760px){
+
+    .foto{
+        display: none;
+    }
+    .angular{
+        display: none;
+    }
+    .java{
+        display: none;
+    }
+    .html{
+        display: none;
+    }
+   
+    #title{
+        line-height: 30px;
+        font-size: 60px;
+        line-height: 30px;
+        font-weight: 30px;
+        font-style:normal;
+        margin: -3px 10px 0px -20px ;
+       
+        }
+    h1{     
+        padding: 15px;
+        border-radius:6px;
+        box-shadow:6px 4px 6px rgba(0, 0, 0, 0.25);
+        border:4px solid rgb(132, 14, 201);    
+        font-size: 30px;
+        align-items: center;
+        position: relative;
+        left: 25px;
+
+    }
+   p{display: none;}
+    a:hover{
+        color: rgb(132, 14, 201);
+        transition: 0.3s all;
+    }
+    
+    #projeto{
+        position: relative; 
+        top: 70px;
+        border:3px solid rgb(132, 14, 201);
+        margin: 0px 300px 0px -740px;
+        border-radius:10px;
+        box-shadow:10px 8px 10px rgba(0, 0, 0, 0.25);
+        font-size:10px;
+        line-height:10px;
+        font-weight: 7px;
+        font-style: bold;
+        max-width: 100px;
+        max-height: 25px;
+    
+    }
+    #projeto:hover{
+        background-color: rgb(132, 14, 201);
+        color: white;
+    }
+    
+    h2{
+        display: none;
+       
+    }
+    button{
+      background-color:rgb(34, 34, 34);
+      border:none;
+      box-shadow: 10px 13px 10px rgba(0, 0, 0, 0.25);
+      border-radius: 20px;
+      
+      
+    
+    }
+    .l{
+        margin:200px 100px 30px -42px ;
+    }
+    .e{
+        position: relative;
+        left: 1.3rem;
+        margin:-20px 200px -150px 57px ;
+    }
+    .c{
+        position: relative;
+        left: 1.3rem;
+        margin:30px 100px 20px 57px ;
+    }
+    .w{
+        position: relative;
+        left: 1.3rem;
+       margin:0px 100px 150px 57px ;
+      
+    }
+    a{
+    }
+   html{
+    height: 100%;
+    width: 100%;
+   margin:0 auto;
+    border:3px solid rgb(132, 14, 201);
+        border-radius:10px;
+        box-shadow:10px 8px 10px rgba(0, 0, 0, 0.25);
+   }
+   
+}
